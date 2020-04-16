@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: eefad4d7b0d821d7dc8d                            #生成的clientID
-  clientSecret: 849e0ac59d8770511612e01eeaa0fc88aaaeff45    #生成的clientSecret
+  clientID: a708327a11ab237b6ed3                            #生成的clientID
+  clientSecret: 7a1a487e1dd34d1a2c2252975c9163995f509969    #生成的clientSecret
   repo: nuaa-codemonkey.github.io    #仓库名称
   owner: nuaa-codemonkey    #github用户名
   admin: nuaa-codemonkey
